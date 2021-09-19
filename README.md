@@ -19,7 +19,7 @@ If you encounter any problems, please open an issue or feel free to contact us:
 ## How to cite 
 Please refer to our ASE'21 paper, [QDiff: Differential Testing for Quantum Software Stacks](https://web.cs.ucla.edu/~wangjiyuan/research/ASE2021_QDiff.pdf) for more details. 
 ### Bibtex  
-Update soon.
+Coming soon.
 
 
 ## Prerequisites
